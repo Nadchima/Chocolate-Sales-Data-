@@ -87,8 +87,8 @@
     In this project, data cleaning was minimal as the imported data was already structured and clean. There were no duplicate records, and missing values were either not present or irrelevant to the analysis. Therefore, no major transformations were performed in the Power Query Editor.
       
 **Data Modeling:**
-      
-      Link tables and create Measures/Columns using DAX for analytical calculations.
+
+    Link tables and create Measures/Columns using DAX for analytical calculations.
 
 **Example:** 
 
