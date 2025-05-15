@@ -16,8 +16,7 @@
     Smooth Silky Salty, White Chocolate, Peanut Butter Cubes, Spicy Special Slims, Raspberry Chocolate
 
 **🎯Seasonal trend:**
-    Sales peak in January and June
-    Sales decline in February
+    Sales peak in January and June, Sales decline in February
 
 **📆Monthly Trand By Product:**
     Comparison of each product's sales on a monthly basis.
@@ -80,8 +79,8 @@
 # 6. Data Analysis Process in Power BI
 
 **Data Import:**
-     
-      Import data from Excel or other data sources into Power BI to start the analysis.
+    
+    Import data from Excel or other data sources into Power BI to start the analysis.
       
 **Data Cleaning:**
     
