@@ -15,18 +15,19 @@
 **🔝Top 5 best-selling products:** 
     Smooth Silky Salty, White Chocolate, Peanut Butter Cubes, Spicy Special Slims, Raspberry Chocolate
 
-**📢Seasonal trend:**
-        - Sales peak in January and June
-        - Sales decline in February
+**🎯Seasonal trend:**
+    Sales peak in January and June
+    
+    Sales decline in February
 
 **📆Monthly Trand By Product:**
     Comparison of each product's sales on a monthly basis.
 
 # 4. Insights
-**Promotions during festive seasons effectively boost sales:**
+**📢Promotions during festive seasons effectively boost sales:**
     Running promotions during festivals such as Valentine’s Day and Christmas significantly helps increase sales. This reflects consumer behavior trends, where customers tend to purchase gifts or snacks during special occasions.
 
-**Countries with low sales:**
+**📈Countries with low sales:**
     It was found that New Zealand and Canada consistently have lower sales compared to other export markets. It is recommended to consider appropriate marketing strategies, such as country-specific promotional campaigns or researching local consumer needs to enhance growth opportunities.
 
 
