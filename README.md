@@ -48,22 +48,22 @@
     
     df['Product'].hist()
     
-    ![image](https://github.com/user-attachments/assets/24e64cae-3887-4600-8b2d-390dabb27ca6)
+![image](https://github.com/user-attachments/assets/24e64cae-3887-4600-8b2d-390dabb27ca6)
 
     sns.boxplot(x=df['Product'])
     
-    ![image](https://github.com/user-attachments/assets/27eb2cd5-9397-4d7e-b1d8-ae9af1d973ed)
+![image](https://github.com/user-attachments/assets/27eb2cd5-9397-4d7e-b1d8-ae9af1d973ed)
 
     sns.countplot(x='Product', data=df)
     plt.title('Amount')
     plt.show()
     
-    ![image](https://github.com/user-attachments/assets/9263a21e-f1bc-4cea-b316-f8d4739c3c83)
+![image](https://github.com/user-attachments/assets/9263a21e-f1bc-4cea-b316-f8d4739c3c83)
 
     sns.histplot(df['Product'])
     plt.show()
 
-    ![image](https://github.com/user-attachments/assets/72cbdd48-210a-47a8-bbab-2d0873897943)
+![image](https://github.com/user-attachments/assets/72cbdd48-210a-47a8-bbab-2d0873897943)
 
 **5. Data Export**
 
