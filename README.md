@@ -1,4 +1,4 @@
-# Data Analysis Report: Chocolate Sales Data📊🍫
+# 📊Data Analysis Report: Chocolate Sales Data🍫
 # 1. Objective
     The objective of this report is to analyze the sales performance of various chocolate products to uncover key trends, customer behavior, and sales drivers. The findings aim to support decision-making in marketing, product development, and inventory management.
 
@@ -15,12 +15,20 @@
 **🔝Top 5 best-selling products:** 
     Smooth Silky Salty, White Chocolate, Peanut Butter Cubes, Spicy Special Slims, Raspberry Chocolate
 
-**📆Seasonal trend:**
-    
-    - Sales peak in January and June
-    - Sales decline in February
+**📢Seasonal trend:**
+        - Sales peak in January and June
+        - Sales decline in February
+
+**📆Monthly Trand By Product:**
+    Comparison of each product's sales on a monthly basis.
 
 # 4. Insights
+**Promotions during festive seasons effectively boost sales:**
+    Running promotions during festivals such as Valentine’s Day and Christmas significantly helps increase sales. This reflects consumer behavior trends, where customers tend to purchase gifts or snacks during special occasions.
+
+**Countries with low sales:**
+    It was found that New Zealand and Canada consistently have lower sales compared to other export markets. It is recommended to consider appropriate marketing strategies, such as country-specific promotional campaigns or researching local consumer needs to enhance growth opportunities.
+
 
 
 # 5. Exploratory Data Analysis (EDA) in Google Colab
@@ -71,8 +79,26 @@
 
 # 6. Data Analysis Process in Power BI
 
+**Data Import:**
+      Import data from Excel or other data sources into Power BI to start the analysis.
+      
+**Data Cleaning:**
+    In this project, data cleaning was minimal as the imported data was already structured and clean. There were no duplicate records, and missing values were either not present or irrelevant to the analysis. Therefore, no major transformations were performed in the Power Query Editor.
+      
+**Data Modeling:**
+      Link tables and create Measures/Columns using DAX for analytical calculations.
+
+**Example:** 
+
+    Month Name = FORMAT('Chocolate Sales Data'[Date], "MMMM")
+
+    Unit Price = 'Chocolate Sales Data'[Amount] / 'Chocolate Sales Data'[Boxes Shipped]
     
 **Visualization:**
+    Create interactive charts and dashboards such as Bar Charts, Pie Charts, and Slicers to display the results.
+![image](https://github.com/user-attachments/assets/f7804de8-25df-4953-943e-484018503eef)
+![image](https://github.com/user-attachments/assets/ef564608-7054-4300-b6ad-c3cc2fb9328d)
+
 
 
 
