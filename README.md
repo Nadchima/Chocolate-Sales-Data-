@@ -4,7 +4,7 @@
 
 # 2. Data Overview
     The dataset contains records of chocolate sales, including:
-    - Product Categories (e.g., Dark Chocolate, Milk Chocolate, White Chocolate)
+    - Product Categories (e.g., White Chocolate, Choco Coated Almonds, Milk Bars)
     - Sales by Country and Region
     - Unit Prices, Quantities Sold, and Revenue
     
