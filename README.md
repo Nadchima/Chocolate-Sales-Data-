@@ -17,7 +17,6 @@
 
 **🎯Seasonal trend:**
     Sales peak in January and June
-    
     Sales decline in February
 
 **📆Monthly Trand By Product:**
@@ -81,12 +80,15 @@
 # 6. Data Analysis Process in Power BI
 
 **Data Import:**
+     
       Import data from Excel or other data sources into Power BI to start the analysis.
       
 **Data Cleaning:**
+    
     In this project, data cleaning was minimal as the imported data was already structured and clean. There were no duplicate records, and missing values were either not present or irrelevant to the analysis. Therefore, no major transformations were performed in the Power Query Editor.
       
 **Data Modeling:**
+      
       Link tables and create Measures/Columns using DAX for analytical calculations.
 
 **Example:** 
@@ -96,8 +98,11 @@
     Unit Price = 'Chocolate Sales Data'[Amount] / 'Chocolate Sales Data'[Boxes Shipped]
     
 **Visualization:**
+    
     Create interactive charts and dashboards such as Bar Charts, Pie Charts, and Slicers to display the results.
+    
 ![image](https://github.com/user-attachments/assets/f7804de8-25df-4953-943e-484018503eef)
+
 ![image](https://github.com/user-attachments/assets/ef564608-7054-4300-b6ad-c3cc2fb9328d)
 
 
